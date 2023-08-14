@@ -1,0 +1,53 @@
+body {
+    background-color: #f8f8f8;
+}
+
+h1 {
+    color: violet;
+}
+
+button {
+    background-color: violet;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+#mi-elemento {
+    color: violet;
+}
+
+body {
+    background-color: #f8f8f8;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: violet;
+    text-align: center;
+}
+
+.producto {
+    width: 300px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.producto img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.producto h3 {
+    color: violet;
+    margin-bottom: 5px;
+}
+
+.producto p {
+    color: #666;
+    font-size: 14px;
+}
